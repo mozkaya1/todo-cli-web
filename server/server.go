@@ -9,9 +9,9 @@ import (
 
 	"github.com/fsnotify/fsnotify"
 	"github.com/labstack/echo/v4"
-	"github.com/mozkaya1/todo-cli/internal"
-	"github.com/mozkaya1/todo-cli/storage"
-	"github.com/mozkaya1/todo-cli/view"
+	"github.com/mozkaya1/todo-cli-web/internal"
+	"github.com/mozkaya1/todo-cli-web/storage"
+	"github.com/mozkaya1/todo-cli-web/view"
 )
 
 func RunServer(data *internal.Todos, storage *storage.Storage[internal.Todos]) {

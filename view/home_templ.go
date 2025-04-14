@@ -9,7 +9,7 @@ import "github.com/a-h/templ"
 import templruntime "github.com/a-h/templ/runtime"
 
 import (
-	"github.com/mozkaya1/todo-cli/internal"
+	"github.com/mozkaya1/todo-cli-web/internal"
 	"strconv"
 )
 

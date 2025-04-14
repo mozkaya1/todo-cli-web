@@ -3,7 +3,7 @@
         "Title": "First Task !",
         "Created": "Mon, 14 Apr 2025 13:45:58 CEST",
         "Completed": true,
-        "Completed_time": "Mon, 14 Apr 2025 13:46:47 CEST",
+        "Completed_time": "Mon, 14 Apr 2025 17:51:56 CEST",
         "Editing": false
     },
     {
@@ -23,8 +23,8 @@
     {
         "Title": "This is last Task..",
         "Created": "Mon, 14 Apr 2025 13:46:42 CEST",
-        "Completed": false,
-        "Completed_time": "",
+        "Completed": true,
+        "Completed_time": "Mon, 14 Apr 2025 22:12:28 CEST",
         "Editing": false
     }
 ]

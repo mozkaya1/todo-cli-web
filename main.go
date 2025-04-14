@@ -1,9 +1,8 @@
 package main
 
 import (
-	"github.com/mozkaya1/todo-cli/internal"
-	// "github.com/mozkaya1/todo-cli/server"
-	"github.com/mozkaya1/todo-cli/storage"
+	"github.com/mozkaya1/todo-cli-web/internal"
+	"github.com/mozkaya1/todo-cli-web/storage"
 )
 
 func main() {
