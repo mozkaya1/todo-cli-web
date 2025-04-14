@@ -7,7 +7,6 @@ require (
 	github.com/aquasecurity/table v1.8.0
 	github.com/fsnotify/fsnotify v1.7.0
 	github.com/labstack/echo/v4 v4.13.3
-	github.com/mozkaya1/todo-cli v0.0.0-20250414154351-0686ca544bf0
 )
 
 require (

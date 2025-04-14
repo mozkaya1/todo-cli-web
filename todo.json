@@ -17,13 +17,13 @@
         "Title": "New Task created..",
         "Created": "Mon, 14 Apr 2025 13:46:37 CEST",
         "Completed": true,
-        "Completed_time": "Mon, 14 Apr 2025 13:46:49 CEST",
+        "Completed_time": "Mon, 14 Apr 2025 22:16:28 CEST",
         "Editing": false
     },
     {
         "Title": "This is last Task..",
         "Created": "Mon, 14 Apr 2025 13:46:42 CEST",
-        "Completed": true,
+        "Completed": false,
         "Completed_time": "Mon, 14 Apr 2025 22:12:28 CEST",
         "Editing": false
     }
