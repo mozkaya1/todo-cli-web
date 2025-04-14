@@ -18,7 +18,7 @@ Simply do your task;
 
 ## Code:
 
-[Github Source](http://github.com/mozkaya1)
+[Github Source](http://github.com/mozkaya1/todo-cli-web)
 
 ## Screenshot:
 
@@ -54,6 +54,13 @@ Usage of /home/musti/.cache/go-build/42/421d5e23fb3f596265313754cf378e1797b3ce69
 ```
 
 ### webserver --
+
+Run webserver with below command...
+
+```bash
+go run server/server.go
+
+```
 
 On Browser
 
