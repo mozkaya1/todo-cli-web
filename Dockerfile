@@ -8,8 +8,8 @@ RUN go mod download
 
 COPY . .
 
-RUN go build -o server server/server.go
+RUN go build -o runserver server/server.go
 
 EXPOSE 3000
 
-CMD ["./server"]
+CMD ["./runserver"]
