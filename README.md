@@ -114,3 +114,17 @@ On Browser
 
 List - Json
 `http://localhost:3000/list`
+
+### Docker --
+Repo is public in my docker cloud : `ozkaya84/todo-cli-web`
+_Run docker with your initial local file_
+Create an empty todo.json file:
+```bash
+echo "[{}]" > todo.json
+```
+Run docker on your folder with binding your `todo.json` file:
+
+```bash
+docker run --name   todo-web -v ./todo.json:/app/todo.json  -p 8080:3000    -d  ozkaya84/todo-cli-web:latest
+```
+and it is now available on  your  localhost `http://localhost:8080`
